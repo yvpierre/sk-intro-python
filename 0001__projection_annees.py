@@ -5,15 +5,15 @@
 ## PROGRAMME 1
 print("Quel est votre nom ?")
 nom = input()
-print("Bonjour " + nom + " !")      
+print("Bonjour " + str(nom) + " !")      
 
 print("Quel age avez vous ?")
 age = input()
-print("Vous avez "+ age +" ans !")    
+print("Vous avez "+ str(age) +" ans !")    
 
 print("Dans combien d'années voulez vous vous projeter ?")
 annees = input()    
 
 # FINAL
-print(nom + " a " + age + " ans et dans " + annees + " ans, il aura " + str(int(age) + int(annees)) + " ans !")
+print(str(nom) + " a " + str(age) + " ans et dans " + str(annees) + " ans, il aura " + str(int(age) + int(annees)) + " ans !")
 

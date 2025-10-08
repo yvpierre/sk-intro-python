@@ -14,4 +14,4 @@ n = int(input("Votre choix: "))
 # Explication de la formule:
 #   capital initial * (1 + taux/100)^nombre d'années
 c = c0 * (1 + r/100)**n
-print("Le capital après",n,"années sera de:", round(c,2), "euros.")
+print("Le capital après"+str(n)+"années sera de:"+ str(round(c,2))+ "euros.")

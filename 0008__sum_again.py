@@ -13,4 +13,4 @@ elif(int(n) == 0):
 else:
     for i in range(1, int(n)+1):
         somme += i
-    print("La somme de tous les entiers jusqu'à",n,"est",somme)
+    print("La somme de tous les entiers jusqu'à",n,"est",str(somme))

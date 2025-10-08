@@ -14,6 +14,6 @@ if(int(n) > 50):
 else:
     for i in range(int(n)):
         sum += i
-        print("On ajoute ",i,", somme =",sum)
+        print("On ajoute "+str(i)+", somme =",str(sum))
         sleep(0.2)
 print("Total:", sum)

@@ -17,6 +17,6 @@ for num in range(int(n), int(m)+1):
                 is_prime = False
                 break
     if is_prime:
-        print(num, "est un nombre premier.")
+        print(str(num)+"est un nombre premier.")
     else:
-        print(num, "n'est pas un nombre premier.")
+        print(str(num)+"n'est pas un nombre premier.")

@@ -13,4 +13,4 @@ elif(int(n) == 0):
 else:
     for i in range(1, int(n)+1):
         fact = fact * i
-    print("La factorielle de",n,"est",fact)
+    print("La factorielle de"+str(n)+"est"+str(fact))
