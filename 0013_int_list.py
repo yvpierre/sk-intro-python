@@ -14,7 +14,20 @@ if(val != 'STOP'):
         if(val != 'STOP' and val != ''):
             liste.append(int(val))
 
-# On affiche la liste
-print("Etat final de la liste")
-for i in liste: 
-    print(i)
+
+# On affiche la liste triée
+print("Liste triée")
+sorted = liste 
+sorted.sort()
+print(sorted)
+
+# Un entier sur deux 
+print("On affiche un element sur deux")
+for i in range(len(sorted)):
+    if i%2 == 0: print(sorted[i])
+
+# La liste originale inversée
+print("on affiche la liste originale à l'envers")
+reversed = liste
+reversed.reverse()
+print(reversed)
