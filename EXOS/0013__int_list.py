@@ -3,7 +3,7 @@
 # SKEMA BS
 
 ## PROGRAMME 13
-print("Saississez le premier entier à ajouter dans la liste (STOP pour arrêter):")
+print()
 liste = []
 val = input()
 if(val != 'STOP'):  

@@ -11,4 +11,5 @@ def prod_list(list):
     return res
 
 print("Produit des elements de la liste")
-print(prod_list([2,1,4]))
+print(prod_list([2,1,4,10,412]))
+
