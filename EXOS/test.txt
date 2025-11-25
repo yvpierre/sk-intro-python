@@ -1,0 +1,5 @@
+Début du nouveau fichierLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus sapien justo, quis malesuada metus ullamcorper eget. Etiam libero risus, aliquet in finibus non, consectetur quis ante. Cras ultrices elit felis, posuere cursus nisl placerat nec. 
+In placerat tellus non sodales pharetra. Praesent sit amet nibh nec mi bibendum congue ac vitae diam. 
+Sed condimentum, erat sit amet ultrices malesuada, orci dui hendrerit tellus, non lacinia ipsum magna a nulla. 
+Sed eleifend ultricies enim quis auctor. Cras a mauris non ex placerat rhoncus tincidunt eget risus. 
+Aliquam nisl neque, tempor et arcu sit amet, dictum ultricies nunc.Fin du nouveau fichier
